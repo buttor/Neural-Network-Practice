@@ -17,7 +17,9 @@ int main()
 	*c = 14;
 
 	std::cout << *a << " " << *c << std::endl;
-	std::cout << "woxiangchaozuoyiwudebee"
+	std::cout << "woxiangchaozuoyiwudebee";
+	std::cout << "woxiwnagwode1waigongkeyishaoshouyxietongkukaix" << std::endl;
+	std::cout << "我们是全网最好的git的教学";
 	// system.pause("");
 
 	return 0;
