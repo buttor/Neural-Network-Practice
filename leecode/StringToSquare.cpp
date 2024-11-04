@@ -17,6 +17,7 @@ int main()
 	*c = 14;
 
 	std::cout << *a << " " << *c << std::endl;
+	std::cout << "woxiangchaozuoyiwudebee"
 	// system.pause("");
 
 	return 0;
