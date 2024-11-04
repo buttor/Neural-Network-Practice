@@ -20,6 +20,7 @@ int main()
 	std::cout << "woxiangchaozuoyiwudebee";
 	std::cout << "woxiwnagwode1waigongkeyishaoshouyxietongkukaix" << std::endl;
 	std::cout << "我们是全网最好的git的教学";
+	std::cout << "为什么总是失败呢" << std::endl;
 	// system.pause("");
 
 	return 0;
